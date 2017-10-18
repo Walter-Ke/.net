@@ -1,0 +1,5 @@
+D:\Net\practice\delegate\delegate\bin\Debug\delegateTest.exe.config
+D:\Net\practice\delegate\delegate\bin\Debug\delegateTest.exe
+D:\Net\practice\delegate\delegate\bin\Debug\delegateTest.pdb
+D:\Net\practice\delegate\delegate\obj\Debug\delegateTest.exe
+D:\Net\practice\delegate\delegate\obj\Debug\delegateTest.pdb

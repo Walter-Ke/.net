@@ -1,0 +1,2 @@
+D:\Net\practice\delegate\delegate\bin\Debug\@delegate.exe.config
+D:\Net\practice\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
